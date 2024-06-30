@@ -20,7 +20,7 @@ echo -e "${GREEN}│${NC}For Freedom${WALL}${DOOR}${WALL}${GREEN}${NC}"
 echo -e "${GREEN}└──────────────────────────────┘${NC}"
 
 echo -e "${YELLOW}Cloning CFW-BOT Repo ${NC}"
-git clone https://github.com/NiREvil/CFW-BOT.git
+git clone https://github.com/sahar-km/CFW-BOT.git
 
 cd CFW-BOT
 
