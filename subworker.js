@@ -417,7 +417,7 @@ export default {
 					最终路径 = `/${path}`;
 					伪装域名 = `${host}`;
 					节点备注 = `${EndPS} RE`;
-					sni = 伪装域名;
+					const sni = 伪装域名;
 				}
 				const vlessLink = `vless://${uuid}@${address}:${port}?encryption=none&security=tls&sni=${伪装域名}&alpn=http%2F1.1&fp=randomized&type=ws&host=${伪装域名}&path=${encodeURIComponent(最终路径)}#${encodeURIComponent(addressid)}`;
 			
