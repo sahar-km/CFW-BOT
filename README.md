@@ -73,7 +73,7 @@ i will release the final version soon!
 just copy and run and send tokens when it ask for them :
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/NiREvil/CFW-BOT/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/sahar-km/CFW-BOT/main/install.sh)"
 ```
 ### LAZY INSTALL
 1. Register for a free account on [PythonAnywhere](https://www.pythonanywhere.com).
@@ -85,7 +85,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/NiREvil/CFW-BOT/main/ins
 4. in your Dashboard section Select Files and and Click on "Open Bash Console Here"
 5.  Clone this repository:
  ```bash
- git clone https://github.com/NiREvil/CFW-BOT.git
+ git clone https://github.com/sahar-km/CFW-BOT.git
 ```
 6. Navigate to the project directory:
 
